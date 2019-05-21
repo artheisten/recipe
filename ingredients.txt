@@ -1,7 +1,7 @@
 * 1 tbsp cilantro
 * 2 avocados
-* 1 lime
-* 1 tsp salt
+* 10 lime
+* 10 tsp salt
 * 1/2 onion
 ---
 After reverting
